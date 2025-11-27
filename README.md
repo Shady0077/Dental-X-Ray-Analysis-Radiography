@@ -75,7 +75,7 @@ To run the scripts, follow these installation steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/NexusX12/Dental-X-ray-Analysis
+   git clone https://github.com/Shady0077/Dental-X-Ray-Analysis-Radiography
    ```
 
 2. cd Dental-X-ray-Analysis:
